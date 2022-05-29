@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kenny</string>
+    <string name="title_home">Counter</string>
+    <string name="title_dashboard">Area Calculator</string>
+    <string name="title_notifications">Volume Calculator</string>
+</resources>
